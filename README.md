@@ -1,9 +1,9 @@
 math_app
 ========
 
-- this is a work-in-progress application for my private study class "cryptography and number theory". 
-- everything is done is java.
-- i purposely made it OO to teach myself some things so it's much more complicated than it needs to be.
+* this is a work-in-progress application for my private study class "cryptography and number theory". 
+* everything is done is java.
+* i purposely made it OO to teach myself some things so it's much more complicated than it needs to be.
 
 What's available now
 ====================
